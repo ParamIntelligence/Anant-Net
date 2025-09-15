@@ -10,7 +10,7 @@ src/allencahn
 
 Note that the above code is particularly for AllenCahn equation and may be appropriately changed to accomodate other types of equations.
 
-## Referencing
+## Reference
 
 If you utilize Anant-Net in your research or draft a paper based on results obtained with it's assistance, please cite the following publication:
 
