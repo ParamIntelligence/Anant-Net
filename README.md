@@ -1,6 +1,11 @@
 # Anant-Net
 
-This repository is the codebase for Anant-Net, which utlizes an efficent strategy to solve a high-dimensional PDE at scale in a physics-informed manner. Its purpose is to provide the readers with some context and idea as they navigate through the article titled "Anant-net: Breaking the curse of dimensionality with scalable and interpretable neural surrogate for high-dimensional pdes".
+This repository is the codebase for Anant-Net, which utlizes an efficent strategy to solve a high-dimensional PDE at scale in a physics-informed manner. Its purpose is to provide the readers with some context regarding the implementation as they navigate through the article titled "Anant-net: Breaking the curse of dimensionality with scalable and interpretable neural surrogate for high-dimensional pdes".
+
+Please install the required python dependencies by executing:
+```python
+pip install -r requirements.txt
+```
 
 To utilize this repository, either you can clone this to your local machine or dowmload the notebook directly and install the necessary dependencies. Once cloned or downloaded, you can navigate to the src directory and execute the notebook to run the code:
 
