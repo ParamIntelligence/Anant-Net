@@ -6,3 +6,4 @@ flax==0.10.6
 tqdm==4.67.1
 pandas==2.2.2
 tree_math==0.2.1
+ipykernel==6.30.1
