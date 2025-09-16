@@ -1,0 +1,8 @@
+jax==0.5.3
+matplotlib==3.10.0
+optax==0.2.5
+numpy==2.0.2
+flax==0.10.6
+tqdm==4.67.1
+pandas==2.2.2
+tree_math==0.2.1
