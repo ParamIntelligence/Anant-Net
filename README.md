@@ -23,8 +23,12 @@ Please install the required python dependencies by executing:
 pip install -r requirements.txt
 ```
 
-To utilize this repository, either you can clone this to your local machine or download the notebook directly and install the necessary dependencies. Once cloned or downloaded, you can navigate to the src directory and execute the notebook to run the code:
+Register the Kernel with Jupyter: 
+```python
+ python -m ipykernel install --user --name=.venv --display-name="my new environment"
+```
 
+To utilize this repository, either you can clone this to your local machine or download the notebook directly and install the necessary dependencies. Once cloned or downloaded, you can navigate to the src directory and execute the notebook to run the code:
 ```python
 src/allencahn
 ```
