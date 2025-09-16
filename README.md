@@ -23,7 +23,7 @@ Please install the required python dependencies by executing:
 pip install -r requirements.txt
 ```
 
-To utilize this repository, either you can clone this to your local machine or dowmload the notebook directly and install the necessary dependencies. Once cloned or downloaded, you can navigate to the src directory and execute the notebook to run the code:
+To utilize this repository, either you can clone this to your local machine or download the notebook directly and install the necessary dependencies. Once cloned or downloaded, you can navigate to the src directory and execute the notebook to run the code:
 
 ```python
 src/allencahn
