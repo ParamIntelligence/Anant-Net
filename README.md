@@ -2,6 +2,13 @@
 
 This repository is the codebase for Anant-Net, which utlizes an efficent strategy to solve a high-dimensional PDE at scale in a physics-informed manner. Its purpose is to provide the readers with some context regarding the implementation as they navigate through the article titled "Anant-net: Breaking the curse of dimensionality with scalable and interpretable neural surrogate for high-dimensional pdes".
 
+
+The architecture for the Two-Step DeepOKAN architecture is shown below.
+
+<p align="center">
+<img src="figs/anantnetarch.jpg" alt="arch" width="900" height="650"/><br><br>
+<em>Figure: Schematic representation of general Anant-Net architecture with batch-size B, highlighting its core components and computational flow for solving high-dimensional PDEs. We partition the d-dimensional input space into equal segments, each of size d/B.</em>
+  
 Navigate to the source folder using command prompt:
 ```python
 cd src
